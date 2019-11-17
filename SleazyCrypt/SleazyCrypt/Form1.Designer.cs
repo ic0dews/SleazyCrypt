@@ -1,4 +1,4 @@
-﻿namespace SleazyCrypt
+namespace SleazyCrypt
 {
     partial class Form1
     {
